@@ -1,6 +1,13 @@
 # Compiled class file
 *.class
 
+# IDE files
+# Intellij
+.idea/
+*.iml
+*.iws
+*~
+
 # Log file
 *.log
 
